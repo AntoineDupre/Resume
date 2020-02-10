@@ -47,8 +47,12 @@ Education
 
  - **School Robotic club: Eurobot competition ** ( **Embedded C** on microcontrollers such as **ARM processor**. )
 
-```
-> <antoine.dupre@protonmail.com> 
-> github: https://github.com/AntoineDupre
-> gitlab: https://gitlab.com/AntoineDupre
-```
+Contact
+---
+
+<antoine.dupre@protonmail.com> 
+
+github: https://github.com/AntoineDupre
+
+gitlab: https://gitlab.com/AntoineDupre
+
