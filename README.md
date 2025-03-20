@@ -7,7 +7,10 @@ Software engineer experience
 ---
 
 2020 - october 2024
-**R&D Scille** - Angers (France)  
+:   **R&D Scille** - Angers (France)  
+
+https://github.com/Scille
+
 - **Parsec-Cloud** client and server development:  
     - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
     - Asynchronous backend: **Trio**, **PostgreSQL**, data serialization  
@@ -30,6 +33,8 @@ Software engineer experience
 
 2015 - 2020
 :   **MAX-IV Synchrotron** - Lund (Sweden)
+
+https://github.com/MaxIV-KitsControls
 
 - Software development:
     - Distributed control system with **PyTango**.
