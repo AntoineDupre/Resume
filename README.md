@@ -1,6 +1,6 @@
 Antoine Dupré
 ==============
-Python developper, Senior software engineer.
+Python developper, Senior software engineer, open-source supporter
 
 
 Software engineer experience
