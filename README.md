@@ -1,13 +1,34 @@
 Antoine Dupré
 ==============
-
-Dev-ops, Python developper, Software engineer.
+Python developper, Senior software engineer.
 
 
 Software engineer experience
 ---
 
-2015 - now
+2020 - october 2024
+**R&D Scille** - Angers (France)  
+- **Parsec-Cloud** client and server development:  
+    - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
+    - Asynchronous backend: **Trio**, **PostgreSQL**, data serialization  
+    - Asynchronous client: **Trio**, filesystem, SQLite, key management, certificates  
+
+- **Parsec-Cloud evolution, scientific and research management:**  
+    - Partnerships, presentations, seminars, and training  
+    - Pre-project design and roadmap  
+    - Project evolution:  
+        - 3-year roadmap  
+        - Budget of approximately €1.7M  
+        - Applications to BPI and RAPID DGA funding programs  
+        - Extending data sharing to chat and collaborative editing  
+        - Zero-trust data indexing  
+        - Partnership with research laboratories  
+        - Project proof of concept, development, and implementation  
+
+
+
+
+2015 - 2020
 :   **MAX-IV Synchrotron** - Lund (Sweden)
 
 - Software development:
