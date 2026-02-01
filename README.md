@@ -40,6 +40,7 @@ https://github.com/MaxIV-KitsControls
     - Distributed control system with **PyTango**.
     - Hardware and Motion control using **python**.
     - Data acquisition, remote control and data pipeline: **zmq**, **grpc** and **Dask**.
+    - Data pipeline processing: **numpy**, **pandas**, **Matplotlib** and **ploty**
     - File writing for scientific data with **h5py**.
     - Graphical user interfaces (**PyQt**, **bokeh**).
     - Data storage based on databases (**SQL**, **Cassandra**, **ElasticSearch**).
