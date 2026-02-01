@@ -22,7 +22,7 @@ https://github.com/Scille
     - Project evolution:  
         - 3-year roadmap  
         - Budget of approximately €1.7M  
-        - Applications to BPI and RAPID DGA funding programs  
+        - Prepared, submitted, and defended grant applications to BPI and RAPID DGA funding programs  
         - Extending data sharing to chat and collaborative editing  
         - Zero-trust data indexing  
         - Partnership with research laboratories  
