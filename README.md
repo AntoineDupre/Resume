@@ -11,7 +11,7 @@ Software engineer experience
 
 https://github.com/Scille
 
-- Core developer for **Parsec-Cloud** a collaborative file-sharing application with end-to-end encryption
+- Core developer for [**Parsec-Cloud**](https://github.com/Scille/parsec-cloud) a collaborative file-sharing application with end-to-end encryption
     - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
     - Asynchronous zero trust backend: **Trio**, **PostgreSQL**, data serialization, server API  
     - Asynchronous secured client: **Trio**, filesystem, SQLite, key management, certificates  
