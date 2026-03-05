@@ -10,7 +10,8 @@ Software engineer experience
 :   **R&D Scille** - Angers (France)  
 
 https://github.com/Scille
-Core developer for **arsec-Cloud** a collaborative file-sharing application with end-to-end encryption
+
+- Core developer for **arsec-Cloud** a collaborative file-sharing application with end-to-end encryption
     - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
     - Asynchronous zero trust backend: **Trio**, **PostgreSQL**, data serialization, server API  
     - Asynchronous secured client: **Trio**, filesystem, SQLite, key management, certificates  
