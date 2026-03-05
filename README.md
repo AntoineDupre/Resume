@@ -10,11 +10,10 @@ Software engineer experience
 :   **R&D Scille** - Angers (France)  
 
 https://github.com/Scille
-
-- **Parsec-Cloud** client and server development:  
+Core developer for **arsec-Cloud** a collaborative file-sharing application with end-to-end encryption
     - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
-    - Asynchronous backend: **Trio**, **PostgreSQL**, data serialization  
-    - Asynchronous client: **Trio**, filesystem, SQLite, key management, certificates  
+    - Asynchronous zero trust backend: **Trio**, **PostgreSQL**, data serialization, server API  
+    - Asynchronous secured client: **Trio**, filesystem, SQLite, key management, certificates  
 
 - **Parsec-Cloud evolution, scientific and research management:**  
     - Partnerships, presentations, seminars, and training  
