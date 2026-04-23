@@ -5,11 +5,25 @@ Python developper, Senior software engineer, open-source supporter
 
 Software engineer experience
 ---
+Febuary 2026 - March 2026
+:   **Internship: Savoir faire linux ** - Rennes (France)  
 
-2020 - october 2024
+https://github.com/seapath
+contacts
+- eloi.bail@savoirfairelinux.fr
+- mathieu.dupre@savoirfairelinux.fr
+
+- Audit, Q&A, Unittest and improvement on [**Seapath ansible**](https://github.com/seapath/ansible) 
+
+---
+
+June 2020 - october 2024
 :   **R&D Scille** - Angers (France)  
 
 https://github.com/Scille
+contacts: 
+- thierry.leblond@scille.fr
+- emmanuel.leblond@scille.fr
 
 - Core developer: [**Parsec-Cloud**](https://github.com/Scille/parsec-cloud) a collaborative file-sharing application with end-to-end encryption
     - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
@@ -28,13 +42,16 @@ https://github.com/Scille
         - Partnership with research laboratories  
         - Project proof of concept, development, and implementation  
 
-
+---
 
 
 2015 - 2020
 :   **MAX-IV Synchrotron** - Lund (Sweden)
 
 https://github.com/MaxIV-KitsControls
+contacts: 
+- vincent.hardion@maxiv.lu.se
+
 
 - Software development:
     - Distributed control system with **PyTango**.
@@ -57,6 +74,8 @@ https://github.com/MaxIV-KitsControls
     - Continuous integration and automation: **Jenkins**, **Ansible**, and **Gitlab runner**.
     - On call service with operator support.
     - Machine and beamline scientist control system contact.
+
+---
 
 2013-2015
 :   **Software engineer at Nexeya System** – Angouleme (France)
