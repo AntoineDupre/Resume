@@ -6,7 +6,7 @@ Python developper, Senior software engineer, open-source supporter
 Software engineer experience
 ---
 Febuary 2026 - March 2026
-:   **Internship: Savoir faire linux ** - Rennes (France)  
+:   **Internship: Savoir faire linux** - Rennes (France)  
 
 https://github.com/seapath
 contacts
