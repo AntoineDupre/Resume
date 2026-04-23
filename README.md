@@ -9,9 +9,6 @@ Febuary 2026 - March 2026
 :   **Internship: Savoir faire linux** - Rennes (France)  
 
 https://github.com/seapath
-contacts
-- eloi.bail@savoirfairelinux.fr
-- mathieu.dupre@savoirfairelinux.fr
 
 - Audit, Q&A, Unittest and improvement on [**Seapath ansible**](https://github.com/seapath/ansible) 
 
@@ -21,9 +18,6 @@ June 2020 - october 2024
 :   **R&D Scille** - Angers (France)  
 
 https://github.com/Scille
-contacts: 
-- thierry.leblond@scille.fr
-- emmanuel.leblond@scille.fr
 
 - Core developer: [**Parsec-Cloud**](https://github.com/Scille/parsec-cloud) a collaborative file-sharing application with end-to-end encryption
     - Secure data-sharing mechanism, encryption, signing, zero-trust pattern  
@@ -49,8 +43,6 @@ contacts:
 :   **MAX-IV Synchrotron** - Lund (Sweden)
 
 https://github.com/MaxIV-KitsControls
-contacts: 
-- vincent.hardion@maxiv.lu.se
 
 
 - Software development:
