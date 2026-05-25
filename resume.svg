@@ -1,0 +1,282 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 794 1123" width="794" height="1123">
+  <defs>
+    <style>
+      .name { font: bold 22px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1e3a5f; }
+      .title { font: 10px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #475569; }
+      .sidebar-header { font: bold 9px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #3b82f6; letter-spacing: 1.8px; text-transform: uppercase; }
+      .sidebar-cat { font: bold 8.5px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1e3a5f; }
+      .sidebar-item { font: 8px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #475569; }
+      .sidebar-ref-name { font: bold 8.5px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1e3a5f; }
+      .sidebar-ref-email { font: 7.5px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #64748b; }
+      .main-header { font: bold 10px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #2563eb; letter-spacing: 2.5px; }
+      .job-date { font: 8px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #64748b; }
+      .job-role { font: bold 11.5px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1e3a5f; }
+      .job-location { font: 9px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #64748b; }
+      .job-gh { font: 7.5px 'Courier New', monospace; fill: #3b82f6; }
+      .job-bullet { font: 9px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #334155; }
+      .bullet-dot { font: 9px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #94a3b8; }
+      .tag-text { font: 7.5px 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #1e40af; }
+      .divider { stroke: #bfdbfe; stroke-width: 1; }
+      .sidebar-divider { stroke: #bfdbfe; stroke-width: 0.5; }
+      .line-light { stroke: #bfdbfe; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="794" height="1123" fill="#ffffff"/>
+  <rect x="0" y="0" width="242" height="1123" fill="#eff6ff"/>
+  <line x1="242" y1="0" x2="242" y2="1123" class="line-light"/>
+
+  <!-- ==================== LEFT SIDEBAR ==================== -->
+
+  <!-- Name & Title -->
+  <text x="22" y="42" class="name">Antoine Dupré</text>
+  <text x="22" y="62" class="title">Python Developer</text>
+  <text x="22" y="76" class="title">Senior Software Engineer</text>
+  <text x="22" y="90" class="title">Open-Source Supporter</text>
+
+  <line x1="22" y1="108" x2="220" y2="108" class="sidebar-divider"/>
+
+  <!-- Contact -->
+  <text x="22" y="128" class="sidebar-header">Contact</text>
+  <!-- Email icon -->
+  <rect x="22" y="139" width="12" height="9" rx="1" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+  <path d="M22 139 L28 144 L34 139" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+  <text x="40" y="147" class="sidebar-item">antoine.dupre@protonmail.com</text>
+  <!-- GitHub icon -->
+  <circle cx="28" cy="160" r="5" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+  <path d="M28 156.5 Q30 156.5 30 158.5 Q30 160 28 161 Q26 160 26 158.5 Q26 156.5 28 156.5" fill="none" stroke="#94a3b8" stroke-width="0.5"/>
+  <a xlink:href="https://github.com/AntoineDupre" target="_blank"><text x="40" y="164" class="sidebar-item" fill="#3b82f6">github.com/AntoineDupre</text></a>
+  <!-- GitLab icon -->
+  <polygon points="28,168 23,176 33,176" fill="none" stroke="#94a3b8" stroke-width="0.8"/>
+  <a xlink:href="https://gitlab.com/AntoineDupre" target="_blank"><text x="40" y="181" class="sidebar-item" fill="#3b82f6">gitlab.com/AntoineDupre</text></a>
+
+  <line x1="22" y1="198" x2="220" y2="198" class="sidebar-divider"/>
+
+  <!-- Skills -->
+  <text x="22" y="218" class="sidebar-header">Skills</text>
+
+  <!-- Architecture & Systems -->
+  <text x="22" y="238" class="sidebar-cat">Architecture &amp; Systems</text>
+  <text x="22" y="254" class="sidebar-item">Distributed control systems</text>
+  <text x="22" y="268" class="sidebar-item">Zero-trust security patterns</text>
+  <text x="22" y="282" class="sidebar-item">Asynchronous programming</text>
+  <text x="22" y="296" class="sidebar-item">Hardware/software integration</text>
+
+  <!-- Data Engineering -->
+  <text x="22" y="320" class="sidebar-cat">Data Engineering</text>
+  <text x="22" y="336" class="sidebar-item">Scientific data pipelines</text>
+  <text x="22" y="350" class="sidebar-item">Storage &amp; databases (SQL, HDF5)</text>
+  <text x="22" y="364" class="sidebar-item">Real-time acquisition</text>
+  <text x="22" y="378" class="sidebar-item">Processing &amp; visualization</text>
+
+  <!-- DevOps & Infrastructure -->
+  <text x="22" y="402" class="sidebar-cat">DevOps &amp; Infrastructure</text>
+  <text x="22" y="418" class="sidebar-item">CI/CD automation</text>
+  <text x="22" y="432" class="sidebar-item">Containerization (Docker)</text>
+  <text x="22" y="446" class="sidebar-item">Monitoring (Prometheus, Grafana)</text>
+  <text x="22" y="460" class="sidebar-item">Linux administration</text>
+
+  <!-- Management -->
+  <text x="22" y="484" class="sidebar-cat">Management</text>
+  <text x="22" y="500" class="sidebar-item">Project roadmapping</text>
+  <text x="22" y="514" class="sidebar-item">Grant writing (BPI, RAPID)</text>
+  <text x="22" y="528" class="sidebar-item">Budget management (~€1.7M)</text>
+  <text x="22" y="542" class="sidebar-item">Partnerships &amp; training</text>
+  <text x="22" y="556" class="sidebar-item">Linux administration</text>
+
+  <!-- Testing &amp; QA -->
+  <text x="22" y="580" class="sidebar-cat">Testing &amp; QA</text>
+  <text x="22" y="596" class="sidebar-item">Unit &amp; integration testing</text>
+  <text x="22" y="610" class="sidebar-item">Code auditing</text>
+  <text x="22" y="624" class="sidebar-item">Quality assurance</text>
+
+  <!-- Languages -->
+  <text x="22" y="648" class="sidebar-cat">Languages</text>
+  <text x="22" y="664" class="sidebar-item">Python (expert)</text>
+  <text x="22" y="678" class="sidebar-item">Go, Rust (proficient)</text>
+  <text x="22" y="692" class="sidebar-item">Embedded C</text>
+
+  <line x1="22" y1="714" x2="220" y2="714" class="sidebar-divider"/>
+
+  <!-- References -->
+  <text x="22" y="734" class="sidebar-header">References</text>
+
+  <text x="22" y="756" class="sidebar-ref-name">Savoir faire linux</text>
+  <text x="22" y="769" class="sidebar-ref-email">eloi.bail@savoirfairelinux.fr</text>
+
+  <text x="22" y="790" class="sidebar-ref-name">Scille</text>
+  <text x="22" y="803" class="sidebar-ref-email">thierry.leblond@scille.fr</text>
+  <text x="22" y="816" class="sidebar-ref-email">emmanuel.leblond@scille.fr</text>
+
+  <text x="22" y="837" class="sidebar-ref-name">MaxIV</text>
+  <text x="22" y="850" class="sidebar-ref-email">vincent.hardion@maxiv.lu.se</text>
+
+  <!-- ==================== RIGHT PANEL ==================== -->
+
+  <!-- Section Header -->
+  <text x="272" y="45" class="main-header">Experience</text>
+  <line x1="272" y1="50" x2="772" y2="50" class="divider"/>
+
+  <!-- Timeline vertical line -->
+  <line x1="258" y1="79" x2="258" y2="815" class="line-light"/>
+
+  <!-- ===== Position 1: Savoir faire linux ===== -->
+  <circle cx="258" cy="83" r="3.5" fill="#ffffff" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="272" y="87" class="job-date">FEB 2026 — MAR 2026</text>
+  <text x="272" y="105" class="job-role">Internship</text>
+  <text x="340" y="105" class="job-location">Savoir faire linux – Rennes, France</text>
+  <a xlink:href="https://github.com/seapath" target="_blank"><text x="272" y="121" class="job-gh" fill="#3b82f6">github.com/seapath</text></a>
+  <text x="282" y="139" class="bullet-dot">•</text>
+  <text x="292" y="139" class="job-bullet">Audit, Q&amp;A, and unit testing on Seapath Ansible infrastructure</text>
+
+  <!-- Tags: Ansible, Python, Testing -->
+  <rect x="272" y="156" width="46" height="15" rx="3" fill="#dbeafe"/>
+  <text x="295" y="167" text-anchor="middle" class="tag-text">Ansible</text>
+  <rect x="324" y="156" width="44" height="15" rx="3" fill="#dbeafe"/>
+  <text x="346" y="167" text-anchor="middle" class="tag-text">Python</text>
+  <rect x="374" y="156" width="46" height="15" rx="3" fill="#dbeafe"/>
+  <text x="397" y="167" text-anchor="middle" class="tag-text">Testing</text>
+  <rect x="426" y="156" width="88" height="15" rx="3" fill="#dbeafe"/>
+  <text x="470" y="167" text-anchor="middle" class="tag-text">Ansible-Molecule</text>
+
+  <!-- ===== Position 2: Scille ===== -->
+  <circle cx="258" cy="217" r="3.5" fill="#ffffff" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="272" y="221" class="job-date">JUN 2020 — OCT 2024</text>
+  <text x="272" y="239" class="job-role">Core Developer &amp; Research Lead</text>
+  <text x="470" y="239" class="job-location">Scille – Angers, France</text>
+  <a xlink:href="https://github.com/Scille" target="_blank"><text x="272" y="255" class="job-gh" fill="#3b82f6">github.com/Scille</text></a>
+
+  <text x="282" y="275" class="bullet-dot">•</text>
+  <text x="292" y="275" class="job-bullet">
+    <a xlink:href="https://github.com/Scille/parsec-cloud" target="_blank" text-decoration="underline">
+      <tspan>Parsec-Cloud</tspan>
+    </a>
+    <tspan> Core developer: end-to-end encrypted collaborative file-sharing platform</tspan>
+  </text>
+
+  <text x="282" y="293" class="bullet-dot">•</text>
+  <text x="292" y="293" class="job-bullet">Conducted CSPN security certification process (ANSSI)</text>
+
+  <text x="282" y="311" class="bullet-dot">•</text>
+  <text x="292" y="311" class="job-bullet">Designed zero-trust asynchronous backend (Trio, PostgreSQL) and secured client</text>
+
+  <text x="282" y="329" class="bullet-dot">•</text>
+  <text x="292" y="329" class="job-bullet">Led research programs: roadmap definition, budget planning, academic partnerships</text>
+
+  <text x="282" y="347" class="bullet-dot">•</text>
+  <text x="292" y="347" class="job-bullet">Managed 3-year roadmap and ~€1.7M budget; secured BPI and RAPID DGA grant funding</text>
+
+  <text x="282" y="365" class="bullet-dot">•</text>
+  <text x="292" y="365" class="job-bullet">Extended product to chat, collaborative editing, and zero-trust data indexing</text>
+
+  <!-- Tags -->
+  <rect x="272" y="384" width="46" height="15" rx="3" fill="#dbeafe"/>
+  <text x="295" y="395" text-anchor="middle" class="tag-text">Python</text>
+  <rect x="324" y="384" width="32" height="15" rx="3" fill="#dbeafe"/>
+  <text x="340" y="395" text-anchor="middle" class="tag-text">Trio</text>
+  <rect x="362" y="384" width="64" height="15" rx="3" fill="#dbeafe"/>
+  <text x="394" y="395" text-anchor="middle" class="tag-text">PostgreSQL</text>
+  <rect x="432" y="384" width="58" height="15" rx="3" fill="#dbeafe"/>
+  <text x="461" y="395" text-anchor="middle" class="tag-text">Encryption</text>
+  <rect x="496" y="384" width="58" height="15" rx="3" fill="#dbeafe"/>
+  <text x="525" y="395" text-anchor="middle" class="tag-text">Zero-trust</text>
+  <rect x="560" y="384" width="68" height="15" rx="3" fill="#dbeafe"/>
+  <text x="594" y="395" text-anchor="middle" class="tag-text">Grant Writing</text>
+  <rect x="634" y="384" width="42" height="15" rx="3" fill="#dbeafe"/>
+  <text x="655" y="395" text-anchor="middle" class="tag-text">PyTest</text>
+
+  <!-- ===== Position 3: MAX-IV ===== -->
+  <circle cx="258" cy="445" r="3.5" fill="#ffffff" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="272" y="449" class="job-date">2015 — 2020</text>
+  <text x="272" y="467" class="job-role">Software Engineer</text>
+  <text x="397" y="467" class="job-location">MAX-IV Synchrotron – Lund, Sweden</text>
+  <a xlink:href="https://github.com/MaxIV-KitsControls" target="_blank"><text x="272" y="483" class="job-gh" fill="#3b82f6">github.com/MaxIV-KitsControls</text></a>
+
+  <text x="282" y="505" class="sidebar-cat" fill="#3b82f6">Software Development</text>
+
+  <text x="282" y="523" class="bullet-dot">•</text>
+  <text x="292" y="523" class="job-bullet">Distributed control systems with PyTango</text>
+
+  <text x="282" y="541" class="bullet-dot">•</text>
+  <text x="292" y="541" class="job-bullet">Hardware and motion control using Python</text>
+
+  <text x="282" y="559" class="bullet-dot">•</text>
+  <text x="292" y="559" class="job-bullet">Data acquisition, remote control, and data pipelines (zmq, gRPC, Dask)</text>
+
+  <text x="282" y="577" class="bullet-dot">•</text>
+  <text x="292" y="577" class="job-bullet">Data processing &amp; visualization (numpy, pandas, Matplotlib, plotly); scientific file writing (h5py)</text>
+
+  <text x="282" y="595" class="bullet-dot">•</text>
+  <text x="292" y="595" class="job-bullet">Graphical user interfaces (PyQt, Bokeh); web servers (aiohttp, Flask)</text>
+
+  <text x="282" y="613" class="bullet-dot">•</text>
+  <text x="292" y="613" class="job-bullet">Data storage (SQL, Cassandra, ElasticSearch); unit testing (PyTest); async programming (asyncio, gevent)</text>
+
+  <text x="282" y="637" class="sidebar-cat" fill="#3b82f6">IT Operations</text>
+
+  <text x="282" y="657" class="bullet-dot">•</text>
+  <text x="292" y="657" class="job-bullet">Linux administration (CentOS, Debian, Arch)</text>
+
+  <text x="282" y="675" class="bullet-dot">•</text>
+  <text x="292" y="675" class="job-bullet">Infrastructure monitoring (Prometheus, Grafana)</text>
+
+  <text x="282" y="693" class="bullet-dot">•</text>
+  <text x="292" y="693" class="job-bullet">CI/CD and automation (Jenkins, Ansible, GitLab runner); packaging &amp; containers (RPM, Conda, Docker)</text>
+
+  <text x="282" y="711" class="bullet-dot">•</text>
+  <text x="292" y="711" class="job-bullet">Agile and Scrum methodologies</text>
+
+  <text x="282" y="729" class="bullet-dot">•</text>
+  <text x="292" y="729" class="job-bullet">On-call service with operator support; control system contact for beamline scientists</text>
+
+  <!-- Tags -->
+  <rect x="272" y="750" width="48" height="15" rx="3" fill="#dbeafe"/>
+  <text x="296" y="761" text-anchor="middle" class="tag-text">PyTango</text>
+  <rect x="326" y="750" width="46" height="15" rx="3" fill="#dbeafe"/>
+  <text x="349" y="761" text-anchor="middle" class="tag-text">Ansible</text>
+  <rect x="378" y="750" width="36" height="15" rx="3" fill="#dbeafe"/>
+  <text x="396" y="761" text-anchor="middle" class="tag-text">Dask</text>
+  <rect x="420" y="750" width="44" height="15" rx="3" fill="#dbeafe"/>
+  <text x="442" y="761" text-anchor="middle" class="tag-text">Docker</text>
+  <rect x="470" y="750" width="68" height="15" rx="3" fill="#dbeafe"/>
+  <text x="504" y="761" text-anchor="middle" class="tag-text">Prometheus</text>
+  <rect x="544" y="750" width="36" height="15" rx="3" fill="#dbeafe"/>
+  <text x="562" y="761" text-anchor="middle" class="tag-text">PyQt</text>
+  <rect x="586" y="750" width="46" height="15" rx="3" fill="#dbeafe"/>
+  <text x="609" y="761" text-anchor="middle" class="tag-text">Pandas</text>
+  <rect x="638" y="750" width="40" height="15" rx="3" fill="#dbeafe"/>
+  <text x="658" y="761" text-anchor="middle" class="tag-text">HDF5</text>
+  <rect x="684" y="750" width="42" height="15" rx="3" fill="#dbeafe"/>
+  <text x="705" y="761" text-anchor="middle" class="tag-text">PyTest</text>
+
+  <!-- ===== Position 4: Nexeya ===== -->
+  <circle cx="258" cy="811" r="3.5" fill="#ffffff" stroke="#3b82f6" stroke-width="1.2"/>
+  <text x="272" y="815" class="job-date">2013 — 2015</text>
+  <text x="272" y="833" class="job-role">Software Engineer</text>
+  <text x="397" y="833" class="job-location">Nexeya System – Angoulême, France</text>
+
+  <text x="282" y="853" class="bullet-dot">•</text>
+  <text x="292" y="853" class="job-bullet">Control system software for the Megajoule Laser project</text>
+
+  <text x="282" y="871" class="bullet-dot">•</text>
+  <text x="292" y="871" class="job-bullet">Industrial motor test bench control software</text>
+
+  <!-- Tags -->
+  <rect x="272" y="890" width="78" height="15" rx="3" fill="#dbeafe"/>
+  <text x="311" y="901" text-anchor="middle" class="tag-text">Control Systems</text>
+  <rect x="356" y="890" width="104" height="15" rx="3" fill="#dbeafe"/>
+  <text x="408" y="901" text-anchor="middle" class="tag-text">Industrial Automation</text>
+
+  <!-- ===== Education ===== -->
+  <text x="272" y="944" class="main-header">Education</text>
+  <line x1="272" y1="949" x2="772" y2="949" class="divider"/>
+
+  <text x="282" y="973" class="job-date">2008 — 2013</text>
+  <text x="282" y="991" class="job-role">Master in Computer Engineering</text>
+  <text x="480" y="991" class="job-location">ESEO – Angers, France</text>
+
+  <text x="282" y="1011" class="bullet-dot">•</text>
+  <text x="292" y="1011" class="job-bullet">Robotics club: Eurobot competition — Embedded C, ARM microcontrollers</text>
+
+</svg>
